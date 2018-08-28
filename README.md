@@ -1,4 +1,4 @@
-*Author Mayson Green, Alex Mussel
+*Author Alex Mussell, Mayson Green
 
 ## Overview:
  This project contains an identity server and client. The client can connect to the server and submit
